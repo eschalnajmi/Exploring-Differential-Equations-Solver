@@ -15,4 +15,4 @@ This project compares the Runge-Kutta, Ralston-4 and Midpoint method in their ab
 
 ## Acknowledgments
 
-Solvers.py was provided by [Dr Tom Ranner](https://eps.leeds.ac.uk/computing/staff/643/dr-thomas-ranner).
+Solvers.py was provided by [Dr. Tom Ranner](https://eps.leeds.ac.uk/computing/staff/643/dr-thomas-ranner).
